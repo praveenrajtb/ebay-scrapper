@@ -1,2 +1,2 @@
 # ebay-scrapper 
-# scrapper for downloading the items sold and theri respective date
+# scrapper for knowing the number of items sold and respective dates
