@@ -3,10 +3,10 @@ from selenium import webdriver
 from parsel import Selector
 
 # Create new Instance of Chrome
-driver = webdriver.Chrome('/home/praveen/anaconda3/chromedriver')
+driver = webdriver.Chrome('/home/chromedriver')
 
 # Go to desired website
-driver.get('https://offer.ebay.co.uk/ws/eBayISAPI.dll?ViewBidsLogin&item=401551356274&rt=nc&_trksid=p2047675.l2564')
+driver.get('https://example.com')
 
 # Wait 2 seconds for page to load
 sleep(2)
